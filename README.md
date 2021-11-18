@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Moruzi
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me: email: rarescristianmoruz@gmail.com
